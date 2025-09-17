@@ -42,27 +42,6 @@ A **machine learning-based framework** was developed, consisting of three main s
 
 ---
 
-## ⚙️ Requirements
-
-The codes are implemented in **Python**. Key dependencies include:
-
-- `numpy`  
-- `pandas`  
-- `scikit-learn`  
-- `xgboost`  
-- `matplotlib`  
-- `scipy`  
-- `geopandas` (for spatial operations)  
-- `netCDF4` or `h5py` (for satellite data)  
-
-Install all dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Usage
 
 1. **Preprocess the data**  
@@ -115,4 +94,4 @@ If you use this code, please cite the following paper:
 For questions or collaboration:  
 **Hossein Bagheri**  
 Faculty of Civil Engineering and Transportation, University of Isfahan  
-📧 h.bagheri@cet.ui.ac.ir  
+📧 h.bagheri.en@gmail.com 
